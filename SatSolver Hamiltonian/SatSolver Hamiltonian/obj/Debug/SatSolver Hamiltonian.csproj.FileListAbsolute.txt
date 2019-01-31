@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\SatSolver Hamiltonian\SatSolver Hamiltonian\bin\Debug\SatSolver Hamiltonian.exe.config
+C:\Users\acer\source\repos\SatSolver Hamiltonian\SatSolver Hamiltonian\bin\Debug\SatSolver Hamiltonian.exe
+C:\Users\acer\source\repos\SatSolver Hamiltonian\SatSolver Hamiltonian\bin\Debug\SatSolver Hamiltonian.pdb
+C:\Users\acer\source\repos\SatSolver Hamiltonian\SatSolver Hamiltonian\obj\Debug\SatSolver Hamiltonian.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\SatSolver Hamiltonian\SatSolver Hamiltonian\obj\Debug\SatSolver Hamiltonian.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\SatSolver Hamiltonian\SatSolver Hamiltonian\obj\Debug\SatSolver Hamiltonian.exe
+C:\Users\acer\source\repos\SatSolver Hamiltonian\SatSolver Hamiltonian\obj\Debug\SatSolver Hamiltonian.pdb

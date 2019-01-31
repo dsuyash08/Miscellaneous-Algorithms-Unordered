@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\Test3\Test3\bin\Debug\Test3.exe.config
+C:\Users\acer\source\repos\Test3\Test3\bin\Debug\Test3.exe
+C:\Users\acer\source\repos\Test3\Test3\bin\Debug\Test3.pdb
+C:\Users\acer\source\repos\Test3\Test3\obj\Debug\Test3.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\Test3\Test3\obj\Debug\Test3.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Test3\Test3\obj\Debug\Test3.exe
+C:\Users\acer\source\repos\Test3\Test3\obj\Debug\Test3.pdb

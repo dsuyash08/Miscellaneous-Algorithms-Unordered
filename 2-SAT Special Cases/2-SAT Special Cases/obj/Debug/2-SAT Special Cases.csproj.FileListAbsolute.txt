@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\2-SAT Special Cases\2-SAT Special Cases\bin\Debug\2-SAT Special Cases.exe.config
+C:\Users\acer\source\repos\2-SAT Special Cases\2-SAT Special Cases\bin\Debug\2-SAT Special Cases.exe
+C:\Users\acer\source\repos\2-SAT Special Cases\2-SAT Special Cases\bin\Debug\2-SAT Special Cases.pdb
+C:\Users\acer\source\repos\2-SAT Special Cases\2-SAT Special Cases\obj\Debug\2-SAT Special Cases.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\2-SAT Special Cases\2-SAT Special Cases\obj\Debug\2-SAT Special Cases.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\2-SAT Special Cases\2-SAT Special Cases\obj\Debug\2-SAT Special Cases.exe
+C:\Users\acer\source\repos\2-SAT Special Cases\2-SAT Special Cases\obj\Debug\2-SAT Special Cases.pdb

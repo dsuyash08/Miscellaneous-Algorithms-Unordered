@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\FordFulkerson with BFS\FordFulkerson with BFS\bin\Debug\netcoreapp2.1\FordFulkerson with BFS.deps.json
+C:\Users\acer\source\repos\FordFulkerson with BFS\FordFulkerson with BFS\bin\Debug\netcoreapp2.1\FordFulkerson with BFS.runtimeconfig.json
+C:\Users\acer\source\repos\FordFulkerson with BFS\FordFulkerson with BFS\bin\Debug\netcoreapp2.1\FordFulkerson with BFS.runtimeconfig.dev.json
+C:\Users\acer\source\repos\FordFulkerson with BFS\FordFulkerson with BFS\bin\Debug\netcoreapp2.1\FordFulkerson with BFS.dll
+C:\Users\acer\source\repos\FordFulkerson with BFS\FordFulkerson with BFS\bin\Debug\netcoreapp2.1\FordFulkerson with BFS.pdb
+C:\Users\acer\source\repos\FordFulkerson with BFS\FordFulkerson with BFS\obj\Debug\netcoreapp2.1\FordFulkerson with BFS.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\FordFulkerson with BFS\FordFulkerson with BFS\obj\Debug\netcoreapp2.1\FordFulkerson with BFS.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\FordFulkerson with BFS\FordFulkerson with BFS\obj\Debug\netcoreapp2.1\FordFulkerson with BFS.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\FordFulkerson with BFS\FordFulkerson with BFS\obj\Debug\netcoreapp2.1\FordFulkerson with BFS.AssemblyInfo.cs
+C:\Users\acer\source\repos\FordFulkerson with BFS\FordFulkerson with BFS\obj\Debug\netcoreapp2.1\FordFulkerson with BFS.dll
+C:\Users\acer\source\repos\FordFulkerson with BFS\FordFulkerson with BFS\obj\Debug\netcoreapp2.1\FordFulkerson with BFS.pdb

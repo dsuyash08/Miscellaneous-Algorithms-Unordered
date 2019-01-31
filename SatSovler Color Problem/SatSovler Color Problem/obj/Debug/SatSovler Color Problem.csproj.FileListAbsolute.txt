@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\SatSovler Color Problem\SatSovler Color Problem\obj\Debug\SatSovler Color Problem.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\SatSovler Color Problem\SatSovler Color Problem\obj\Debug\SatSovler Color Problem.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\SatSovler Color Problem\SatSovler Color Problem\bin\Debug\SatSovler Color Problem.exe.config
+C:\Users\acer\source\repos\SatSovler Color Problem\SatSovler Color Problem\bin\Debug\SatSovler Color Problem.exe
+C:\Users\acer\source\repos\SatSovler Color Problem\SatSovler Color Problem\bin\Debug\SatSovler Color Problem.pdb
+C:\Users\acer\source\repos\SatSovler Color Problem\SatSovler Color Problem\obj\Debug\SatSovler Color Problem.exe
+C:\Users\acer\source\repos\SatSovler Color Problem\SatSovler Color Problem\obj\Debug\SatSovler Color Problem.pdb

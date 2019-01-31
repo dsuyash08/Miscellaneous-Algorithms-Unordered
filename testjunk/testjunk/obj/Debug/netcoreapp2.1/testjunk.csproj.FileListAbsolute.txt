@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\testjunk\testjunk\bin\Debug\netcoreapp2.1\testjunk.deps.json
+C:\Users\acer\source\repos\testjunk\testjunk\bin\Debug\netcoreapp2.1\testjunk.runtimeconfig.json
+C:\Users\acer\source\repos\testjunk\testjunk\bin\Debug\netcoreapp2.1\testjunk.runtimeconfig.dev.json
+C:\Users\acer\source\repos\testjunk\testjunk\bin\Debug\netcoreapp2.1\testjunk.dll
+C:\Users\acer\source\repos\testjunk\testjunk\bin\Debug\netcoreapp2.1\testjunk.pdb
+C:\Users\acer\source\repos\testjunk\testjunk\obj\Debug\netcoreapp2.1\testjunk.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\testjunk\testjunk\obj\Debug\netcoreapp2.1\testjunk.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\testjunk\testjunk\obj\Debug\netcoreapp2.1\testjunk.AssemblyInfo.cs
+C:\Users\acer\source\repos\testjunk\testjunk\obj\Debug\netcoreapp2.1\testjunk.dll
+C:\Users\acer\source\repos\testjunk\testjunk\obj\Debug\netcoreapp2.1\testjunk.pdb
+C:\Users\acer\source\repos\testjunk\testjunk\obj\Debug\netcoreapp2.1\testjunk.csprojAssemblyReference.cache

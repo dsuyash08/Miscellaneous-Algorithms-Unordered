@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "algo toolbox week 6", "algo toolbox week 6\algo toolbox week 6.pyproj", "{BACECCF9-1469-4BD5-8B52-D080DCD1966B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BACECCF9-1469-4BD5-8B52-D080DCD1966B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACECCF9-1469-4BD5-8B52-D080DCD1966B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACECCF9-1469-4BD5-8B52-D080DCD1966B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACECCF9-1469-4BD5-8B52-D080DCD1966B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {150D7ECD-3383-444F-B1C2-6FBB6CF4B1CA}
+	EndGlobalSection
+EndGlobal

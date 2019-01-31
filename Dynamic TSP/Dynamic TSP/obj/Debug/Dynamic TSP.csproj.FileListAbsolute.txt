@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\Dynamic TSP\Dynamic TSP\bin\Debug\Dynamic TSP.exe.config
+C:\Users\acer\source\repos\Dynamic TSP\Dynamic TSP\bin\Debug\Dynamic TSP.exe
+C:\Users\acer\source\repos\Dynamic TSP\Dynamic TSP\bin\Debug\Dynamic TSP.pdb
+C:\Users\acer\source\repos\Dynamic TSP\Dynamic TSP\obj\Debug\Dynamic TSP.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\Dynamic TSP\Dynamic TSP\obj\Debug\Dynamic TSP.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Dynamic TSP\Dynamic TSP\obj\Debug\Dynamic TSP.exe
+C:\Users\acer\source\repos\Dynamic TSP\Dynamic TSP\obj\Debug\Dynamic TSP.pdb

@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\stock charts google\stock charts google\bin\Debug\netcoreapp2.1\stock charts google.deps.json
+C:\Users\acer\source\repos\stock charts google\stock charts google\bin\Debug\netcoreapp2.1\stock charts google.runtimeconfig.json
+C:\Users\acer\source\repos\stock charts google\stock charts google\bin\Debug\netcoreapp2.1\stock charts google.runtimeconfig.dev.json
+C:\Users\acer\source\repos\stock charts google\stock charts google\bin\Debug\netcoreapp2.1\stock charts google.dll
+C:\Users\acer\source\repos\stock charts google\stock charts google\bin\Debug\netcoreapp2.1\stock charts google.pdb
+C:\Users\acer\source\repos\stock charts google\stock charts google\obj\Debug\netcoreapp2.1\stock charts google.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\stock charts google\stock charts google\obj\Debug\netcoreapp2.1\stock charts google.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\stock charts google\stock charts google\obj\Debug\netcoreapp2.1\stock charts google.AssemblyInfo.cs
+C:\Users\acer\source\repos\stock charts google\stock charts google\obj\Debug\netcoreapp2.1\stock charts google.dll
+C:\Users\acer\source\repos\stock charts google\stock charts google\obj\Debug\netcoreapp2.1\stock charts google.pdb
+C:\Users\acer\source\repos\stock charts google\stock charts google\obj\Debug\netcoreapp2.1\stock charts google.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\Flight using FordFulkerson\Flight using FordFulkerson\bin\Debug\netcoreapp2.1\Flight using FordFulkerson.deps.json
+C:\Users\acer\source\repos\Flight using FordFulkerson\Flight using FordFulkerson\bin\Debug\netcoreapp2.1\Flight using FordFulkerson.runtimeconfig.json
+C:\Users\acer\source\repos\Flight using FordFulkerson\Flight using FordFulkerson\bin\Debug\netcoreapp2.1\Flight using FordFulkerson.runtimeconfig.dev.json
+C:\Users\acer\source\repos\Flight using FordFulkerson\Flight using FordFulkerson\bin\Debug\netcoreapp2.1\Flight using FordFulkerson.dll
+C:\Users\acer\source\repos\Flight using FordFulkerson\Flight using FordFulkerson\bin\Debug\netcoreapp2.1\Flight using FordFulkerson.pdb
+C:\Users\acer\source\repos\Flight using FordFulkerson\Flight using FordFulkerson\obj\Debug\netcoreapp2.1\Flight using FordFulkerson.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\Flight using FordFulkerson\Flight using FordFulkerson\obj\Debug\netcoreapp2.1\Flight using FordFulkerson.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Flight using FordFulkerson\Flight using FordFulkerson\obj\Debug\netcoreapp2.1\Flight using FordFulkerson.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Flight using FordFulkerson\Flight using FordFulkerson\obj\Debug\netcoreapp2.1\Flight using FordFulkerson.AssemblyInfo.cs
+C:\Users\acer\source\repos\Flight using FordFulkerson\Flight using FordFulkerson\obj\Debug\netcoreapp2.1\Flight using FordFulkerson.dll
+C:\Users\acer\source\repos\Flight using FordFulkerson\Flight using FordFulkerson\obj\Debug\netcoreapp2.1\Flight using FordFulkerson.pdb

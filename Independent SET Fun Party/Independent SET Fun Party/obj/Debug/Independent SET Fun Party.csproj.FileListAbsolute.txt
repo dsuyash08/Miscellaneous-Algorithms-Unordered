@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\Independent SET Fun Party\Independent SET Fun Party\bin\Debug\Independent SET Fun Party.exe.config
+C:\Users\acer\source\repos\Independent SET Fun Party\Independent SET Fun Party\bin\Debug\Independent SET Fun Party.exe
+C:\Users\acer\source\repos\Independent SET Fun Party\Independent SET Fun Party\bin\Debug\Independent SET Fun Party.pdb
+C:\Users\acer\source\repos\Independent SET Fun Party\Independent SET Fun Party\obj\Debug\Independent SET Fun Party.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\Independent SET Fun Party\Independent SET Fun Party\obj\Debug\Independent SET Fun Party.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Independent SET Fun Party\Independent SET Fun Party\obj\Debug\Independent SET Fun Party.exe
+C:\Users\acer\source\repos\Independent SET Fun Party\Independent SET Fun Party\obj\Debug\Independent SET Fun Party.pdb
